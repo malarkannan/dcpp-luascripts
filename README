@@ -1,0 +1,5 @@
+Linux: Put this folder (luascripts) inside the eiskaltdc++ in .config of ur home directory
+
+Windows : Put this in the "C:\\Documents and Settings\<username>\Application Data\eiskaltdc++\" in case of Windows XP
+	  and "C:\\Users\<username>\Application Data\eiskaltdc++\" in case of Windows 7 or Vista.
+	  for the ipsql.lua to work correctly setup the mysql server properly(see comments for instructions in ipsql.lua).
