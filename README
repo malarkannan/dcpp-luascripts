@@ -1,5 +1,14 @@
+Introduction
+============
+These scripts work with clients with bcdc compatible lua api support.the scripts are tested under Eiskaltdc++ and ApexDC++.
+
+
+How does it work ?
+==================
 Linux: Put this folder (luascripts) inside the eiskaltdc++ in .config of ur home directory
 
 Windows : Put this in the "C:\\Documents and Settings\<username>\Application Data\eiskaltdc++\" in case of Windows XP
 	  and "C:\\Users\<username>\Application Data\eiskaltdc++\" in case of Windows 7 or Vista.
 	  for the ipsql.lua to work correctly setup the mysql server properly(see comments for instructions in ipsql.lua).
+
+then type /help in mainchat window to get a list of available commands.
